@@ -1,4 +1,4 @@
-Laman 1
+#Laman 1
 ![WhatsApp Image 2023-12-19 at 07 48 25_79cc2c6f](https://github.com/Delonix1Regia/Inventaris-Manajemen-Barang/assets/105977648/dcd6f09f-4fb3-4168-ad08-188dc94297b9)
 
 Laman 2
